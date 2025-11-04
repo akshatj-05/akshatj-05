@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Akshat Jain  
 📚 Undergraduate at Swami Keshvanand Institute of Technology
+---
+ ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
+---
 
 ### 💻 Tech Enthusiast | Web Developer | Open Source Contributor  
 
@@ -32,9 +35,6 @@ Currently exploring modern web technologies and open-source development to sharp
 
 ---
 
-### 📊 GitHub Stats  
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ---
 
